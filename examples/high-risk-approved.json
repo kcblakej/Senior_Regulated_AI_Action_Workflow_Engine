@@ -1,0 +1,8 @@
+{
+  "tenantId": "tenant-a",
+  "userId": "alice@example.com",
+  "role": "compliance_officer",
+  "question": "Can we approve Vendor X to process customer payment data?",
+  "requestedAction": "markVendorApproved",
+  "approvedBy": "bob@example.com"
+}
